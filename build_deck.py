@@ -36,7 +36,7 @@ def build():
     s = d.prs.slides.add_slide(d.blank)
     d.rect(s, 0, 0, 13.333, 7.5, DARK)
     d.rect(s, 0, 0, 13.333, 0.1, RED)
-    d.text(s, 0.9, 0.95, 11, 0.4, "PRODUCT MANAGEMENT  |  COURSE-END PROJECT", size=13, bold=True, color=RED)
+    d.text(s, 0.9, 0.95, 11, 0.4, "PRODUCT MANAGEMENT", size=13, bold=True, color=RED)
     d.text(s, 0.9, 1.4, 11.6, 1.5, ["AI-Driven Music Experience", "for Netflix Music"], size=40, bold=True, color=WHITE, spacing=0.05)
     d.text(s, 0.9, 2.95, 11.3, 0.9, "Technology stack, data model, GenAI model selection and Agile delivery "
            "for AI-powered music recommendations", size=18, color=GREY_TXT)
