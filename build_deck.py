@@ -598,7 +598,7 @@ def build():
 
     # ================================================================== PART 4
     d.section("Part 4  |  Task 3", "GenAI model selection: OpenAI vs Gemini",
-              "Cost, latency, token limits, accuracy, ethics and data privacy, researched November 2026")
+              "Cost, latency, token limits, accuracy, ethics and data privacy")
 
     # ================================================================== 35 Use cases
     s = d.base("Where GenAI fits in Netflix Music", "Five use cases, each with a different demand on the model")
