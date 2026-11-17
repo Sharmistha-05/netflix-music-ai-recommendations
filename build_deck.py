@@ -808,7 +808,7 @@ def build():
 
     # ================================================================== PART 5
     d.section("Part 5  |  Task 4", "Agile workflow and the Trello board",
-              "Kanban for flow, sprints for rhythm, WSJF for priority, using Sheet 2 - Sprint Tasks")
+              "Kanban for flow, sprints for rhythm, WSJF for priority")
 
     # ================================================================== 48 Operating model
     s = d.base("Agile operating model: Scrum-ban", "Two-week sprints for rhythm, a Kanban board for flow")
