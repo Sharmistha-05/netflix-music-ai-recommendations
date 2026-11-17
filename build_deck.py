@@ -415,7 +415,7 @@ def build():
 
     # ================================================================== PART 3
     d.section("Part 3  |  Task 2", "ER diagram and the data behind it",
-              "Mapping users, songs, playlists and AI model data, then reading Sheet 1 - Music Data")
+              "Mapping users, songs, playlists and AI model data")
 
     # ================================================================== 23 Sheet 1 profile
     s = d.base("Sheet 1 - Music Data at a glance", "10 listening records: one user, one song, one genre each",
